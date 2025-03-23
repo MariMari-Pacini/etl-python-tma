@@ -1,13 +1,13 @@
 ID_Atendimento,Tempo_Medio_Atendimento,Assunto_Atendimento,Chamado,Improcedente,Mais_de_um_protocolo,Acionou_suporte_focal
 127503,0:04:13,Transferencia,Nao,,Nao,Sim
-127504,0:26:01,LCD,Sim,Nao,Nao,Sim
+127504,0:26:01,LCD,Sim,0,Nao,Sim
 127505,0:07:40,Transferencia,Nao,,Sim,Sim
 127506,0:07:40,Transferencia,Nao,,Sim,Sim
 127507,0:05:00,Transferencia,Nao,,Sim,Sim
 127508,0:05:00,Transferencia,Nao,,Sim,Sim
 127509,0:12:15,C&R,Nao,,Nao,Nao
 127510,0:07:44,C&R,Nao,,Nao,Nao
-127511,0:27:33,LCD,Sim,Nao,Nao,Sim
+127511,0:27:33,LCD,Sim,0,Nao,Sim
 127512,0:08:04,Manutencao,Nao,,Nao,Nao
 127513,0:03:25,Transferencia,Nao,,Sim,Sim
 127514,0:03:25,Transferencia,Nao,,Sim,Sim
@@ -23,11 +23,11 @@ ID_Atendimento,Tempo_Medio_Atendimento,Assunto_Atendimento,Chamado,Improcedente,
 127524,0:21:14,C&R,Nao,,Sim,Nao
 127525,0:26:08,C&R,Nao,,Nao,Nao
 127526,0:26:08,Manutencao,Nao,,Nao,Nao
-127527,0:57:52,C&R,Sim,Nao,Nao,Sim
+127527,0:57:52,C&R,Sim,0,Nao,Sim
 127528,0:06:58,LCD,Nao,,Nao,Nao
 127529,0:19:24,LCD,Nao,,Nao,Nao
 127530,0:13:08,C&R,Nao,,Nao,Nao
-127531,0:31:17,C&R,Sim,Nao,Nao,Sim
+127531,0:31:17,C&R,Sim,0,Nao,Sim
 127532,0:10:46,Transferencia,Nao,,Sim,Sim
 127533,0:10:46,Transferencia,Nao,,Sim,Sim
 127534,0:04:40,Transferencia,Nao,,Sim,Sim
@@ -36,7 +36,7 @@ ID_Atendimento,Tempo_Medio_Atendimento,Assunto_Atendimento,Chamado,Improcedente,
 127537,0:08:01,Transferencia,Nao,,Sim,Sim
 127538,0:19:10,Manutencao,Nao,,Nao,Nao
 127539,0:18:26,Manutencao,Nao,,Nao,Nao
-127540,0:23:14,C&R,Sim,Nao,Nao,Sim
+127540,0:23:14,C&R,Sim,0,Nao,Sim
 127541,0:11:58,C&R,Nao,,Nao,Nao
 127542,0:11:17,C&R,Nao,,Nao,Nao
 127543,0:00:52,Queda Atendimento,Nao,,Nao,Nao
@@ -46,7 +46,7 @@ ID_Atendimento,Tempo_Medio_Atendimento,Assunto_Atendimento,Chamado,Improcedente,
 127547,0:07:21,Transferencia,Nao,,Sim,Sim
 127548,0:35:51,Manutencao,Nao,,Nao,Nao
 127549,0:18:54,C&R,Nao,,Nao,Nao
-127550,0:23:06,C&R,Sim,Nao,Nao,Sim
+127550,0:23:06,C&R,Sim,0,Nao,Sim
 127551,0:14:21,Transferencia,Nao,,Sim,Sim
 127552,0:14:21,Transferencia,Nao,,Sim,Sim
 127553,0:21:11,LCD,Nao,,Nao,Nao
@@ -66,13 +66,13 @@ ID_Atendimento,Tempo_Medio_Atendimento,Assunto_Atendimento,Chamado,Improcedente,
 127567,0:14:39,LCD,Nao,,Sim,Nao
 127568,0:07:51,Transferencia,Nao,,Sim,Sim
 127569,0:07:51,Transferencia,Nao,,Sim,Sim
-127570,0:29:48,LCD,Sim,Nao,Nao,Sim
+127570,0:29:48,LCD,Sim,0,Nao,Sim
 127571,0:10:54,LCD,Nao,,Nao,Nao
 127572,0:17:47,Manutencao,Nao,,Nao,Nao
 127573,0:14:13,LCD,Nao,,Nao,Nao
 127574,0:05:35,Transferencia,Nao,,Sim,Sim
 127575,0:05:35,Transferencia,Nao,,Sim,Sim
-127576,0:42:02,Manutencao,Sim,Nao,Nao,Sim
+127576,0:42:02,Manutencao,Sim,0,Nao,Sim
 127577,0:16:40,Transferencia,Nao,,Sim,Sim
 127578,0:16:40,Transferencia,Nao,,Sim,Sim
 127579,0:07:52,LCD,Nao,,Nao,Nao
@@ -103,7 +103,7 @@ ID_Atendimento,Tempo_Medio_Atendimento,Assunto_Atendimento,Chamado,Improcedente,
 127604,0:09:53,Transferencia,Nao,,Sim,Sim
 127605,0:21:58,LCD,Nao,,Nao,Nao
 127606,0:14:19,C&R,Nao,,Nao,Nao
-127607,0:34:42,C&R,Sim,Nao,Nao,Sim
+127607,0:34:42,C&R,Sim,0,Nao,Sim
 127608,0:14:20,C&R,Nao,,Nao,Nao
 127609,0:19:18,Manutencao,Nao,,Nao,Nao
 127610,0:05:55,LCD,Nao,,Nao,Nao
@@ -119,9 +119,9 @@ ID_Atendimento,Tempo_Medio_Atendimento,Assunto_Atendimento,Chamado,Improcedente,
 127620,0:04:27,Transferencia,Nao,,Sim,Sim
 127621,0:04:27,Transferencia,Nao,,Sim,Sim
 127622,0:10:57,C&R,Nao,,Nao,Nao
-127623,0:29:39,LCD,Sim,Nao,Nao,Sim
+127623,0:29:39,LCD,Sim,0,Nao,Sim
 127624,0:23:56,LCD,Nao,,Nao,Nao
-127625,0:26:36,LCD,Sim,Nao,Nao,Sim
+127625,0:26:36,LCD,Sim,0,Nao,Sim
 127626,0:08:10,Transferencia,Nao,,Sim,Sim
 127627,0:08:10,Transferencia,Nao,,Sim,Sim
 127628,0:08:02,Transferencia,Nao,,Sim,Sim
@@ -163,14 +163,14 @@ ID_Atendimento,Tempo_Medio_Atendimento,Assunto_Atendimento,Chamado,Improcedente,
 127664,0:06:30,LCD,Nao,,Sim,Nao
 127665,0:06:30,LCD,Nao,,Sim,Nao
 127666,0:06:30,C&R,Nao,,Sim,Nao
-127667,1:06:45,C&R,Sim,Nao,Nao,Sim
+127667,1:06:45,C&R,Sim,0,Nao,Sim
 127668,0:00:27,Queda Atendimento,Nao,,Nao,Nao
 127669,0:24:09,LCD,Nao,,Nao,Nao
 127670,0:15:46,C&R,Nao,,Sim,Nao
 127671,0:15:46,Manutencao,Nao,,Sim,Nao
 127672,0:16:35,C&R,Nao,,Sim,Nao
 127673,0:07:00,C&R,Nao,,Nao,Nao
-127674,0:29:04,C&R,Sim,Nao,Nao,Sim
+127674,0:29:04,C&R,Sim,0,Nao,Sim
 127675,0:11:03,C&R,Nao,,Nao,Nao
 127676,0:13:01,C&R,Nao,,Nao,Nao
 127677,0:05:06,Transferencia,Nao,,Sim,Sim

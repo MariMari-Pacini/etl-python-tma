@@ -3,7 +3,7 @@ from typing import Optional, Literal
 from datetime import datetime
 
 
-class Atendimento(BaseModel):
+class PlanilhaAtendimento(BaseModel):
     ID_Atendimento: int = Field(..., ge=127503, le=127678, description="Identificador único do atendimento")
     
     Tempo_Medio_Atendimento: datetime = Field(..., description="Tempo médio do atendimento em formato datetime (HH:MM:SS)")
@@ -14,7 +14,7 @@ class Atendimento(BaseModel):
 
     Chamado: Literal["Sim", "Nao"] = Field(..., description="Indica se houve abertura de chamado")
 
-    Improcedente: Optional[Literal["Nao"]] = Field(None, description="Indica improcedência (quando aplicável)")
+    Improcedente: Optional[float] = Field(None, description="Indica improcedência (quando aplicável)", nullable=True)
 
     Mais_de_um_protocolo: Literal["Sim", "Nao"] = Field(..., description="Indica se o atendimento teve múltiplos protocolos")
 
