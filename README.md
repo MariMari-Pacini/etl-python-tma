@@ -9,7 +9,7 @@ A primeira etapa do pipeline consiste em gerar um **relatório de perfil** (Prof
 
 - **Arquivo:** `main.py`
 - **Print da funcionalidade:**
-  [Análise Exploratória](C:\Users\marip\OneDrive\Documentos\Python_Scripts\etl-python-tma\images\pandas-profiling-ok.png)
+  [Análise Exploratória](images/pandas-profiling-ok.png)
 
 
 ### 2. **Contrato de Dados**
