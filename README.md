@@ -18,7 +18,9 @@ Em seguida, utilizamos um **contrato de dados** para garantir que os dados preen
 
 - **Arquivo:** `validador_dados.py`
 - **Print da funcionalidade:**
-  *Aqui, insira um print do contrato de dados ou do código que define as regras de validação*
+    ![Validando dados pegando os erros](images/validador-nok.png)
+
+
 
 ### 3. **Validação do Dataset**
 A terceira etapa do pipeline envolve a **validação** do dataset. Após preencher o arquivo `.csv`, a aplicação irá verificar se os dados estão dentro das condições aceitas no contrato de dados. Caso um erro seja encontrado, ele será identificado, juntamente com a linha do erro e sugestões de onde procurar a solução.
