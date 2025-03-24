@@ -80,5 +80,4 @@ streamlit run src/aplicacao.py
 
 ## Contato
 
-Qualquer coisa entre em contato comigo:
 🔗[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/marianapacini-dataengineer/)
